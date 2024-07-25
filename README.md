@@ -1,0 +1,1 @@
+This project is basic a clone of blinkit with both frontend and backend
